@@ -92,7 +92,7 @@
 17. Participant : Oke deh.
 - (Navigasi page pada Participant telah berfungsi kembali)
 - **11:12** (Participant telah menyelesaikan tugasnya)
-18.  Participant : Susah juga, tadi sampai harus nge-find satu satu, baru ketemu. Tapi anehnya juga navigasinya bisa tadi.
+18.  Participant : Susah juga, tadi sampai harus nge-find satu satu, baru ketemu. Harusnya sih bisa multiple query gitu di kotak pencariannya. Tapi anehnya juga navigasinya bisa tadi.
 19.  Interviewer : Oke deh yang penting bisa. sekarang lanjut lagi ya. Sekarang coba cari tahu berapa banyak Tugas Akhir dengan RMK KCV dengan dosen pembimbing Pak Rully.
 20.  Participant : Oke deh.
 - **13:30** (Participant telah menyelesaikan tugasnya)
@@ -184,36 +184,36 @@
 7. Interviewer : Oke, lanjut ya, sekarang coba cari tahu berapa banyak tugas akhir dengan RMK Algoritma dan Pemrograman.
 8. Participant : Oke.
 - **03:13** (Participant telah berhasil melakukan tugasnya)
-7. Participant : Sudah
-8. Interviewer : Oke, bagaimana menurutmu ?
-9. Participant : Pertama tama bingung sih, antara topik TA dan pencarian TA dimana bedanya. kemudian tadi gabisa buat navigasi. tapi setelah ganti browser dan reload bisa terus ya gitu.
-10. Interviewer : Oke deh, lanjut untuk tugas berikutnya ya, Coba cari tahu berapa banyak Tugas Akhir dengan RMK KBJ dan memiliki judul TA mengandung string "Klasifikasi".
-11. Participant : Oke
+9. Participant : Sudah
+10. Interviewer : Oke, bagaimana menurutmu ?
+11. Participant : Pertama tama bingung sih, antara topik TA dan pencarian TA dimana bedanya. kemudian tadi gabisa buat navigasi. tapi setelah ganti browser dan reload bisa terus ya gitu.
+12. Interviewer : Oke deh, lanjut untuk tugas berikutnya ya, Coba cari tahu berapa banyak Tugas Akhir dengan RMK KBJ dan memiliki judul TA mengandung string "Klasifikasi".
+13. Participant : Oke
 - **05:36** (Participant telah menyelesaikan tugasnya)
-12. Participant : Oke sudah
-13. Interviewer : Oke bagaimana menurutmu ?
-14. Participant : Saya kira tadi judul itu sempat tidak bisa diklik tapi ternyata bisa,
-15. Interviewer : Sip, sekarang lanjut. Coba cari tahu berapa banyak Tugas Akhir dengan Judul TA mengandung string "Aplikasi" pada angkatan 2007.
-16. Participant : Oke.
+13. Participant : Oke sudah
+14. Interviewer : Oke bagaimana menurutmu ?
+15. Participant : Saya kira tadi judul itu sempat tidak bisa diklik tapi ternyata bisa,
+16. Interviewer : Sip, sekarang lanjut. Coba cari tahu berapa banyak Tugas Akhir dengan Judul TA mengandung string "Aplikasi" pada angkatan 2007.
+17. Participant : Oke.
 - **10:35** (Participant telah menyelesaikan tugasnya)
-17. Participant : Pake CTRL + F sih tadi, karena ga bisa multiple query dalam dropdown pada kategori, jadinya agak curang.
-18. Interviewer : Oke deh yang penting bisa. sekarang lanjut lagi ya. Sekarang coba cari tahu berapa banyak Tugas Akhir dengan RMK KCV dengan dosen pembimbing Pak Rully.
-19. Participant : Oke.
+18. Participant : Pake CTRL + F sih tadi, karena ga bisa multiple query dalam dropdown pada kategori, jadinya agak curang.
+19. Interviewer : Oke deh yang penting bisa. sekarang lanjut lagi ya. Sekarang coba cari tahu berapa banyak Tugas Akhir dengan RMK KCV dengan dosen pembimbing Pak Rully.
+20. Participant : Oke.
 - **14:01** (Participant telah menyelesaikan tugasnya)
-20. Participant : Sudah..
-21. Interviewer : Wah sip, Selanjutnya adalah cari tahu pada tahun berapa saja Pak Hadziq menjadi dosen pembimbing.
-22. Participant : Oke.
+21. Participant : Sudah..
+22. Interviewer : Wah sip, Selanjutnya adalah cari tahu pada tahun berapa saja Pak Hadziq menjadi dosen pembimbing.
+23. Participant : Oke.
 - **15:40** (Participant telah menyelesaikan tugasnya)
-23. Participant : Sudah.
-24. Interviewer : Selanjutnya coba cari tahu dosen yang menawarkan topik TA dengan judul yang mengandung string "Prediksi"
-25. Participant : Oke.
+24. Participant : Sudah.
+25. Interviewer : Selanjutnya coba cari tahu dosen yang menawarkan topik TA dengan judul yang mengandung string "Prediksi"
+26. Participant : Oke.
 - **16:56** (Participant telah menyelesaikan tugasnya)
-26.  Interviewer : Oke, bagaimana ?
-27.  Participant : Bingung sih, tadi sempat kukira error ternyata kesalahan sistem. Kemudian tulisan DTK tidak pada tempatnya. Dan judulnya itu ambigu bisa diklik atau engga.
-28.  Interviewer : Oke sip, ada tambahan secara keseluruhan ?
-29.  Participant : Tidak ada
-30.  Interviewer : Oke, Terima kasih atas waktunya ya.
-31.  Participant : Oke.
+27.  Interviewer : Oke, bagaimana ?
+28.  Participant : Bingung sih, tadi sempat kukira error ternyata kesalahan sistem. Kemudian tulisan DTK tidak pada tempatnya. Dan judulnya itu ambigu bisa diklik atau engga.
+29.  Interviewer : Oke sip, ada tambahan secara keseluruhan ?
+30.  Participant : Tidak ada
+31.  Interviewer : Oke, Terima kasih atas waktunya ya.
+32.  Participant : Oke.
 
 ### Models and Annotations
 #### Artifact Model
