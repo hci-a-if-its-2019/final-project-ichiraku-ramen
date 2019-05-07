@@ -122,8 +122,11 @@ In this final project, our teams will look out for the main problems that causes
 
 ### Models and Annotations
 #### Artifact Model
+![Artifact-Model-P1](img/Participant-1-Artifact&#32;Model.png)
 #### Flow Model
+![Flow-Model-P1](img/Participant-1-Flow&#32;Model.png)
 #### Cultural Model
+![Cultural-Model-P1](img/Participant-1-Cultural&#32;Model.png)
 
 ## Participant 2
 ### Participant Description
@@ -172,8 +175,11 @@ In this final project, our teams will look out for the main problems that causes
 
 ### Models and Annotations
 #### Artifact Model
+![Artifact-Model-P2](img/Participant-2-Artifact&#32;Model.png)
 #### Flow Model
+![Flow-Model-P2](img/Participant-2-Flow&#32;Model.png)
 #### Cultural Model
+![Cultural-Model-P2](img/Participant-2-Cultural&#32;Model.png)
 
 ## Participant 3
 ### Participant Description
@@ -224,8 +230,11 @@ In this final project, our teams will look out for the main problems that causes
 
 ### Models and Annotations
 #### Artifact Model
+![Artifact-Model-P3](img/Participant-3-Artifact&#32;Model.png)
 #### Flow Model
+![Flow-Model-P3](img/Participant-3-Flow&#32;Model.png)
 #### Cultural Model
+![Cultural-Model-P3](img/Participant-3-Cultural&#32;Model.png)
 
 ## Participant 4
 ### Participant Description
@@ -275,8 +284,11 @@ In this final project, our teams will look out for the main problems that causes
 
 ### Models and Annotations
 #### Artifact Model
+![Artifact-Model-P4](img/Participant-4-Artifact&#32;Model.png)
 #### Flow Model
+![Flow-Model-P4](img/Participant-4-Flow&#32;Model.png)
 #### Cultural Model
+![Cultural-Model-P4](img/Participant-4-Cultural&#32;Model.png)
 
 ## Participant 5
 ### Participant Description
@@ -309,7 +321,7 @@ In this final project, our teams will look out for the main problems that causes
 19. Interviewer : Oke yang penting bisa. Sekarang coba cari tahu berapa banyak Tugas Akhir dengan RMK KCV dengan dosen pembimbing Pak Rully.
 20. Participant : Oke.
 - **15:21** (Participant telah menyelesaikan tugasnya)
-21. Participant : Tadi sempet gabisa navigasinya, terus tiba tiba bisa, aneh jadie.
+21. Participant : Tadi navigasinya langsung mengekspand gitu. Aneh jadinya
 22. Interviewer : Sip, selanjutnya adalah cari tahu pada tahun berapa saja Pak Hadziq menjadi dosen pembimbing.
 23. Participant : Oke.
 - **16:33** (Participant telah menyelesaikan tugasnya)
@@ -326,6 +338,8 @@ In this final project, our teams will look out for the main problems that causes
 
 ### Models and Annotations
 #### Artifact Model
+![Artifact-Model-P5](img/Participant-5-Artifact&#32;Model.png)
 #### Flow Model
+![Flow-Model-P5](img/Participant-5-Flow&#32;Model.png)
 #### Cultural Model
-
+![Cultural-Model-P5](img/Participant-5-Cultural&#32;Model.png)
