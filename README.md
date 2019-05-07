@@ -52,6 +52,10 @@
 
 # Project Topic : Redesigning monTA (Monitoring Tugas Akhir)
 ## System Description
+As an undergraduate in Indonesia, especially in Institut Teknologi Sepuluh Nopember Surabaya, an undergraduate is expected to complete a final assignment, or thesis, to complete their bachelor's degree. A series of steps should be conducted in order to complete this assignment, from the initial proposal of a thesis to the final thesis presentation. This series of steps, however, must be documented and monitored properly in order to properly finish the assignment.  
+
+MonTA *(Monitoring Tugas Akhir)* is a system designed for monitoring the progress of an undergraduate's thesis. The system acts as a platform for students and lecturers to directly monitor their progress on completing their theses. The system also provides a platform for lecturers to promote their research that a student may take in order to complete their thesis.
+
 ## What's Bad About The Existing System
 
 # Contextual Inquiry
