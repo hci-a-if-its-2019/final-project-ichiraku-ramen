@@ -66,7 +66,29 @@
    
 ## Participant 1
 ### Participant Description
+1. The parcipant is male student of Informatics Deparment ITS 2017.
+2. The participant never open the monTA page.
+
 ### Transcript
+1. Interviewer : Selamat siang, terima kasih atas waktunya bersedia untuk hadir diwawancarai. Pertama-tama pernahkah menggunakan monTA (Monitoring Tugas Akhir) yang bisa diakses pada URL : https://monta.if.its.ac.id.
+2. Participant : Selamat siang juga, kalau monTA belum pernah karena emang belum waktunya.
+3. Interviewer : Oke, pertama-tama bisa login di monTA dengan username dan password sebagai berikut *sensor*.
+4. Participant : Oke
+- **01:10** (Participant telah berhasil untuk login).
+5. Interviewer : Oke, setelah login sekarang lanjut untuk tugas selanjutnya ya.
+6. Participant : Oke.
+7. Interviewer : Selanjutnya coba cari tahu berapa banyak tugas akhir dengan RMK Algoritma dan Pemrograman.
+8. Participant : Sebentar.
+- **3:13** (Participant memilih menyerah untuk melakukan tugasnya)
+9. Participant : Udah nyerah deh, gatau navigasi halaman nya ga jalan, ga bisa pindah kehalaman berikutnya, jadinya ga tahu totalnya berapa.
+10. Interviewer : Oke deh, sekarang lanjut saja ya untuk tugas berikutnya, Coba cari tahu berapa banyak Tugas Akhir dengan RMK KBJ dan memiliki judul TA mengandung string "Klasifikasi".
+11. Participant : Oke, tapi kayaknya gabisa lagi deh kan Navigasi antar halamannya ga bisa.
+12. Interviewer : Udah coba dulu aja gapapa
+- **5:01** (Participant memilih untuk menyerah untuk melakukan tugasnya)
+13. Participant : Ga bisa, navigasinya tidak jalan, sama seperti sebelumnya gabisa buat menghitung berapa. Emang rusak ya ? atau bagaimana ?
+14. Interviewer : Sebenarnya bisa sih kemarin ku coba.
+15. Participant : Hmmm yaudah deh.
+16. Interviewer : 
 ### Models and Annotations
 #### Artifact Model
 #### Flow Model
