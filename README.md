@@ -57,6 +57,9 @@ As an undergraduate in Indonesia, especially in Institut Teknologi Sepuluh Nopem
 MonTA *(Monitoring Tugas Akhir)* is a system designed for monitoring the progress of an undergraduate's thesis. The system acts as a platform for students and lecturers to directly monitor their progress on completing their theses. The system also provides a platform for lecturers to promote their research that a student may take in order to complete their thesis.
 
 ## What's Bad About The Existing System
+Our team have found some problems in the existing system. The first one is about finding information about theses in the system. The current system only provides a limited search capability that does not cover all of the needed information nowdays. The second one is the outdated user interface. The user interface, while functionally sufficient, does not provide a good experience for the users, especially for the first timers.
+
+In this final project, our teams will look out for the main problems that causes the observations above and propose a solution that hopefully may fix the current problem.
 
 # Contextual Inquiry
 ## Instruction Script
