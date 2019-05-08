@@ -49,6 +49,19 @@
       - [Artifact Model](#artifact-model-4)
       - [Flow Model](#flow-model-4)
       - [Cultural Model](#cultural-model-4)
+  - [Do's and Don't](#dos-and-dont)
+    - [Do's](#dos)
+    - [Dont's](#donts)
+- [Prototyping - Iteration 1](#prototyping---iteration-1)
+  - [Sketches](#sketches)
+    - [Sketches with Invision (Low Fidelity)](#sketches-with-invision-low-fidelity)
+    - [Version Differences](#version-differences)
+    - [Selected Sketch](#selected-sketch)
+    - [Design Rationale](#design-rationale)
+  - [Asummptions](#asummptions)
+    - [Hardware](#hardware)
+    - [User](#user)
+  - [Prototype](#prototype)
 
 # Project Topic : Redesigning monTA (Monitoring Tugas Akhir)
 ## System Description
@@ -346,3 +359,57 @@ In this final project, our teams will look out for the main problems that causes
 ![Flow-Model-P5](img/Participant-5-Flow&#32;Model.png)
 #### Cultural Model
 ![Cultural-Model-P5](img/Participant-5-Cultural&#32;Model.png)
+
+## Do's and Don't
+
+### Do's
+- Give feedback on user action.
+- Use consistent UI placement.
+- Give user more flexibility on searching.
+- Use UI that users can intuitively guess functionality.
+
+### Dont's
+- Display sistem error or something similar.
+- Use unstable UI (sometimes work and sometimes error).
+
+# Prototyping - Iteration 1
+## Sketches
+In this section, we are going to make **2** sketches with Invision App.
+
+### Sketches with Invision (Low Fidelity)
+- Sketches 1 (Low Fidelity - 1)
+![Low-Fidelity-1](img/Low&#32;Fidelity.png)
+
+- Sketches 2 (Low Fidelity - 2)
+![Low-Fidelity-2](img/Low&#32;Fidelity&#32;2.png)
+
+### Version Differences
+- Sketches 1 :
+  In solution 1, we redesigned from the start of MonTA. Starting from the placement of input search, placing filters, columns in tables, and others.
+- Sketches 2 :
+  In solution 2, we redesigned UI placement on the old MonTA website for the better.
+
+### Selected Sketch
+We prefer solution 1 as the selected sketch. Because simple is the best, easy to be implemented, eye catching, intuitive, and informative.
+
+### Design Rationale
+The main problem with the original website is limited search capability, sometimes can make someone angry for using it. So we try to provides better search capability.
+
+## Asummptions
+### Hardware 
+1. Screen size : 15.6 inch
+2. Screen resolution : higher that on equal to 1377 x 768 with ration 4:3 with color space RGB.
+3. Computer with minimum requirement :
+- Intel Dual-Core
+- Intel HD Graphic
+- 2 GB RAM
+4. Using physical buttons (mouse / keyboard) or touch screen
+5. Installed new version of browser
+
+### User
+1. Familiar using web browser
+2. User have medium-high experience on it.
+3. User age range from 17 - 50 years old.
+4. Student of Informatics Department
+
+## Prototype
