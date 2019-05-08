@@ -415,7 +415,7 @@ The main problem with the original website is limited search capability, sometim
 ## Prototype
 This prototype build based on `react`, in order to make this prototype work well please type this on terminal
 ```bash
-sudo npm install serve
+sudo npm install -g serve
 serve -s monta-prototype-1
 ```
 After that visit : `http://localhost:5000` for demonstration.
