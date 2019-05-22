@@ -1,4 +1,4 @@
-# Initial Contextual Inquiry
+# Usability Evaluation
 
 ## Table of Content
   - [Instruction Script](#instruction-script)
