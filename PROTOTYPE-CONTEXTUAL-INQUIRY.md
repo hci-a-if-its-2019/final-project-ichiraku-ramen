@@ -42,12 +42,12 @@
     - [Dont's](#donts)
 
 ## Instruction Script
-1. Find out how many Final Project with specialization "Algoritma dan Pemrograman".
-2. Find out how many Final Project with specialization "Komputasi Berbasis Jaringan" and having title contains substring "Klasifikasi".
-3. Find out how many Final Project having title contains substring "Aplikasi" and class of 2007
+1. Find out how many Final Project with specialization "Komputasi Cerdas dan Visi".
+2. Find out how many Final Project with specialization "Algoritma Pemograman" and having title contains substring "Algoritma".
+3. Find out how many Final Project having title contains substring "Algoritma" and class of 2014.
 4. Find out how many Final Project with supervisor Rully Soelaiman and with specialization "Komputasi Cerdas dan Visi".
-5. In what year did Hadziq Fabroyir become a supervisor ?
-6. Find out the lecturer who offer Final Project Topics with title contains "Prediksi"
+5. Find out how many Final Project with supervisor Hadziq Fabroyir and with status "OK".
+6. Find out how which supervisors that offer Final Project's Topic with specialization "Arsitektur Jaringan Komputer" that not yet taken.
    
 ## Participant 1
 ### Participant Description
