@@ -102,6 +102,35 @@
 18. Participant : Iya, untuk tampilan hasil pencarian kalau bisa diperjelas.
 19. Interviewer : Oke, terimakasih.
 
+## Participant 3
+### Participant Description
+1. The parcipant is a male student of Informatics Department ITS 2017.
+2. The participant is not familiar with the monTA system.
+
+### Transcript
+1. Interviewer : Selamat siang, terima kasih atas waktunya bersedia untuk hadir diwawancarai. Pertama-tama pernahkah menggunakan monTA (Monitoring Tugas Akhir) yang bisa diakses pada URL : https://monta.if.its.ac.id.
+2. Participant : Belum pernah sih kalau pakai monTA, kan masih tahun kedua juga.
+3. Interviewer : Oke, jadi untuk tugas pertama coba cari tahu ada berapa TA dengan RMK Komputasi Cerdas dan Visi
+- **00:38** *Participant* berhasil menyelesaikan tugasnya
+4. Interviewer : Bagaimana menurutmu?
+5. Participant : Sudah bisa sih, cuma kalau bisa hasil pencariannya mungkin bisa di-highlight supaya lebih kelihatan.
+6. Interviewer : Oke, kemudian coba cari tahu ada berapa TA di RMK AP dengan judul mengandung kata *Algoritma*?
+7. Participant : Waduh, ini cara mencarinya bagaimana ya? *participant agak kesulitan dengan cara pencarian yang menggunakan search bar, awalnya mencoba mencari di bagian filter box*
+- **02:38** *Participant* berhasil menyelesaikan tugasnya
+8. Interviewer : Bagaimana menurutmu?
+9. Participant : Search barnya kalau bisa dipindah, soalnya susah terlihat.
+10. Interviewer : Oke, kemudian coba cari tahu ada berapa TA dengan judul mengandung kata *Algoritma* yang dibuat oleh mahasiswa angkatan 2004?
+- **04:35** *Participant* berhasil menyelesaikan tugasnya
+14. Interviewer : Oke, sekarang coba cari tahu ada berapa TA dengan dosen pembimbing bapak Rully pada RMK KCV?
+- **05:23** *Participant* berhasil menyelesaikan tugasnya
+15. Interviewer : Oke, sekarang coba cari tahu ada berapa TA dengan dosen pembimbing bapak Hadziq dengan status OK?
+- **06:03** *Participant* berhasil menyelesaikan tugasnya
+16. Interviewer : Oke, yang terakhir coba cari tahu siapa dosen pada RMK AJK dengan status topik yang belum diambil?
+- **06:49** *Participant* berhasil menyelesaikan tugasnya
+17. Interviewer : Oke, terimakasih. Kira-kira ada masukan ngga untuk aplikasinya?
+18. Participant : Tambahan aja sih, kalau bisa filternya bisa di-clear, jadi ngga susah harus klik satu-satu, sama penempatannya mungkin bisa lebih diatur lagi supaya fiturnya lebih terlihat.
+19. Interviewer : Baik, terimakasih sudah mau ikut berpartisipasi
+
 ## Participant 4
 ### Participant Description
 1. The participant is a female student of Informatics Department ITS 2016.
