@@ -120,7 +120,7 @@
 
 ## Participant 4
 ### Participant Description
-1. The participant is a female student of Informatics Department ITS batch 2016.
+1. The participant is a female student of Informatics Department ITS 2016.
 2. The participant is an interviewee from contextual inquiry
 
 ### Transcript
@@ -132,6 +132,7 @@
 6. Participant : Ok.
 7. Interviewer : Bisa kita mulai?
 8. Participant : Bisa.
+- **00:00** Timer started
 9. Interviewer : Pertama. Coba cari berapa banyak TA yang RMKnya *KCV*
 10. Participant : Ok. KCV ya.
 11. Participant : Hmm. Ini dihitung manual?.
@@ -179,6 +180,72 @@
 ![Flow-Model-P4]()
 #### Cultural Model
 ![Cultural-Model-P4]()
+
+## Participant 5
+### Participant Description
+1. The participant is a male student of Informatics Department ITS 2016.
+2. The participant is familiar with monTA.
+3. The participant is not an interviewee from contextual inquiry
+
+### Transcript
+1. Interviewer : Hi. Sebelumnya, terima kasih atas kesediaannya untuk mengikuti wawancara ini.
+2. Participant : Iya. Sama-sama. Ini mau ngapain?
+3. Interviewer : Kami dari kelas IMK Pak Hadziq, mendapat tugas untuk melakukan testing terhadap prototipe fitur pencarian TA pada monTA.
+4. Participant : Ooh ok. Gimana wawancaranya?
+5. Interviewer : Kami akan memberikan perintah-perintah yang akan dikerjakan dengan prototipe ini. Jika emang ada komentar, silahkan langsung disampaikan.
+6. Participant : Ok.
+7. Interviewer : Bisa kita mulai?
+8. Participant : Bisa.
+- **00:00** Timer started
+9. Interviewer : Coba cari tau berapa banyak TA dengan RMK *KCV*
+10. Participant : Gimana ngitungnya?
+- **00:23** *Participant* berhasil menyelesaikan tugasnya
+11. Participant : Ooh. Ini to. Kenapa diletakkan dibawah sini?
+12. Interviewer : Kenapa emangnya?
+13. Participant : Ga begitu kelihatan soalnya. Mending ditarok diatas.
+14. Interviewer : Okok. Seberapa ga kelihatan? Dan apakah perlu dipindah
+15. Participant : Lumayan. Karena ditarok ditempat yang ga biasa dan menurut ku informasi ini lumayan penting.
+16. Interviewer : Ooh okok. Berarti dipindah ya. Ada lagi?
+17. Participant : Udah sih.
+18. Interviewer : Ok. Lanjut. Coba cari TA dengan RMK *Alpro* dengan judul yang mengandung *algoritma*
+- **01:18** *Participant* berhasil menyelesaikan tugasnya
+19. Participant : Hmm. Agak susah buat searchingnya.
+20. Interviewer : Kenapa?
+21. Participant : Karena searching ini digunakan sebagai filter, gimana kalau *search box*-nya diletakkan diatas filter?
+22. Interviewer : Ooh. Kenapa kok dipindah keatas sana?
+23. Participant : Karena perpindahan yang dilakukan cenderung sedikit. Jadi lebih efektif kalo menurutku.
+24. Interviewer : Okok. Akan kami catat. Ada lagi?
+25. Participant : Udah ga ada.
+26. Interviewer : Ok. Lanjut. Coba cari TA dengan judul yang mengandung *algoritma* pada tahun 2014.
+- **01:59** *Participant* berhasil menyelesaikan tugasnya
+27. Participant : Ok udah.
+28. Interviewer : Ada masalah?
+29. Participant : Engga.
+30. Interviewer : Ok. Lanjut lagi. Coba cari TA RMK *KCV* yang pembimbingnya Pak Rully
+31. Participant : Ok.
+- **02:40** *Participant* berhasil menyelesaikan tugasnya
+32. Participant : Sudah.
+33. Interviewer : Apakah ada kesulitan?
+34. Participant : Udah engga.
+35. Interviewer : Ok. Sekarang coba cari TA yang dibimbing oleh Pak Hadziq dengan status *OK*
+- **03:04** *Participant* berhasil menyelesaikan tugasnya
+36. Participant : Udah.
+37. Interviewer : Bisa lanjut?
+38. Participant : Bisa.
+39. Interviewer : Ok. Terakhir, coba cari dosen yang menawarkan topik TA *AJK* dan belum diambil oleh mahasiswa
+- **03:35** *Participant* berhasil menyelesaikan tugasnya
+40. Interviewer : Apakah ada komentar sebelum kita selesai?
+41. Participant : Udah ga ada kok. Yang lainnya udah lancar.
+42. Interviewer : Ok. Terima kasih ya atas waktu dan kesediaannya.
+43. Participant : Ya. Sama-sama
+
+### Models and Annotations
+#### Artifact Model
+![Artifact-Model-P5]()
+#### Flow Model
+![Flow-Model-P5]()
+#### Cultural Model
+![Cultural-Model-P5]()
 
 ## Do's and Don't
 
