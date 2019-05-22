@@ -1,4 +1,4 @@
-# Initial Contextual Inquiry
+# Usability Evaluation
 
 ## Table of Content
   - [Instruction Script](#instruction-script)
@@ -88,6 +88,46 @@
 ![Flow-Model-P1]()
 #### Cultural Model
 ![Cultural-Model-P1]()
+
+## Participant 2
+### Participant Description
+1. The parcipant is a male student of Informatics Department ITS 2016.
+2. The participant is not familiar with the monTA system.
+
+### Transcript
+1. Interviewer : Selamat siang, terima kasih atas waktunya bersedia untuk hadir diwawancarai. Pertama-tama pernahkah menggunakan monTA (Monitoring Tugas Akhir) yang bisa diakses pada URL : https://monta.if.its.ac.id.
+2. Participant : Selamat siang juga, kalau monTA belum pernah sih.
+3. Interviewer : Ya, jadi aplikasinya bisa dikunjungi disini (merujuk pada prototype)
+4. Participant : Wah, tampilannya terang sekali ya.
+5. Interviewer : Oke, jadi untuk tugas pertama coba cari tahu ada berapa TA dengan RMK Komputasi Cerdas dan Visi
+6. Participant : *participant agak kesulitan dengan tampilan hasil pencarian yang tidak terlihat*
+- **00:13** *Participant* berhasil menyelesaikan tugasnya
+7. Interviewer : Bagaimana menurutmu?
+8. Participant : Hasil pencariannya tidak kelihatan, saran kalau bisa lebih diperjelas.
+9. Interviewer : Oke, kemudian coba cari tahu ada berapa TA di RMK AP dengan judul mengandung kata *Algoritma*?
+10. Participant : *participant agak kesulitan dengan hasil pencarian.*
+- **01:30** *Participant* berhasil menyelesaikan tugasnya
+11. Interviewer : Bagaimana menurutmu?
+12. Participant : Kalau bisa penempatan antara filter dan search result diperdekat, ngga kelihatan soalnya.
+13. Interviewer : Oke, kemudian coba cari tahu ada berapa TA dengan judul mengandung kata *Algoritma* yang dibuat oleh mahasiswa angkatan 2004?
+- **03:13** *Participant* berhasil menyelesaikan tugasnya
+14. Interviewer : Oke, sekarang coba cari tahu ada berapa TA dengan dosen pembimbing bapak Rully pada RMK KCV?
+- **03:57** *Participant* berhasil menyelesaikan tugasnya
+15. Interviewer : Oke, sekarang coba cari tahu ada berapa TA dengan dosen pembimbing bapak Hadziq dengan status OK?
+- **04:26** *Participant* berhasil menyelesaikan tugasnya
+16. Interviewer : Oke, yang terakhir coba cari tahu siapa dosen pada RMK AJK dengan status topik yang belum diambil?
+- **04:51** *Participant* berhasil menyelesaikan tugasnya
+17. Interviewer : Oke, terimakasih. Kira-kira ada masukan ngga untuk aplikasinya?
+18. Participant : Iya, untuk tampilan hasil pencarian kalau bisa diperjelas.
+19. Interviewer : Oke, terimakasih.
+
+### Models and Annotations
+#### Artifact Model
+![Artifact-Model-P2]()
+#### Flow Model
+![Flow-Model-P2]()
+#### Cultural Model
+![Cultural-Model-P2]()
 
 ## Do's and Don't
 
