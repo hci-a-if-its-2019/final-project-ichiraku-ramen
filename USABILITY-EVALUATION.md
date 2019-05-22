@@ -223,10 +223,21 @@
 - **03:35** *Participant* berhasil menyelesaikan tugasnya
 40. Interviewer : Apakah ada komentar sebelum kita selesai?
 41. Participant : Udah ga ada kok. Yang lainnya udah lancar.
-42. Interviewer : Ok. Terima kasih ya atas waktu dan kesediaannya.
+42. Interviewer : Ok. Terima kasih ya atas waktu dan kesediaannya
 43. Participant : Ya. Sama-sama
 
 ## Feedback and Incidence Analysis
+
+### Summary
+|                                                          Evaluation Script                                                          | Participant 1               | Participant 2                                                    | Participant 3                                                                            | Participant 4 | Participant 5 |
+|:-----------------------------------------------------------------------------------------------------------------------------------:|-----------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------|---------------|
+| Find out how many Final Project with specialization "Komputasi Cerdas dan Visi".                                                    | No Comment  (Done in 00:11) | Bright UI, String "Hasil Pencarian" is invisible (Done in 00:13) | String "Hasil Pencarian" is invisible, Place this string above the table (Done in 00:38) | The search result positioning is too low (Done in 00:15) | String "Hasil Pencarian" is invisible, Place this string above the table (Done in 00:23)                |
+| Find out how many Final Project with specialization "Algoritma Pemograman" and having title contains substring "Algoritma".         | No Comment  (Done in 00:46) | Place search bar close enough with Filter box (Done in 1:30)     |  Move search bar into better place (Done in 2:38)                                        | Better to use number instead of ID (Done in 01:02)       | Placement of the search box should be close enough with filter box (Done in 01:18)              |
+| Find out how many Final Project having title contains substring "Algoritma" and belongs to 2014 batch.                              | No Comment  (Done in 01:29) | No Comment  (Done in 03:13)                                      | No Comment  (Done in 04:35)                                                              | No comment (Done in 02:01)                               | No comment (Done in 01:59)              |
+| Find out how many Final Project with supervisor Rully Soelaiman and with specialization "Komputasi Cerdas dan Visi".                | No Comment  (Done in 01:55) | No Comment  (Done in 03:57)                                      | No Comment  (Done in 05:23)                                                              | No comment (Done in 02:21)                               | No comment (Done in 02:40)              |
+| Find out how many Final Project with supervisor Hadziq Fabroyir and with status "OK".                                               | No Comment  (Done in 02:26) | No Comment  (Done in 04:26)                                      | No Comment  (Done in 06:03)                                                              | No comment (Done in 02:45)                               | No comment (Done in 03:04)              |
+| Find out which supervisors that offer Final Project's Topic with  specialization "Arsitektur Jaringan Komputer" that not yet taken. | No Comment  (Done in 02:57) | No Comment  (Done in 04:51)                                      | No Comment  (Done in 06:49)                                                              | No comment (Done in 03:23)                               | No comment (Done in 03:35)              |
+|                                                               Overall                                                               | No Comment                  | Think again about placement string "Hasil Pencarian"             | Think again about placement button "Clear Filter"                                        | No comment                                               | No comment               |
 
 ### Observation 1
 ![Artifact-Model](/img/ue-artefact1.png)
