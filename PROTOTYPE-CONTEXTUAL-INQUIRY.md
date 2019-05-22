@@ -44,14 +44,14 @@
 ## Instruction Script
 1. Find out how many Final Project with specialization "Komputasi Cerdas dan Visi".
 2. Find out how many Final Project with specialization "Algoritma Pemograman" and having title contains substring "Algoritma".
-3. Find out how many Final Project having title contains substring "Algoritma" and class of 2014.
+3. Find out how many Final Project having title contains substring "Algoritma" and belongs to 2014 batch.
 4. Find out how many Final Project with supervisor Rully Soelaiman and with specialization "Komputasi Cerdas dan Visi".
 5. Find out how many Final Project with supervisor Hadziq Fabroyir and with status "OK".
 6. Find out how which supervisors that offer Final Project's Topic with specialization "Arsitektur Jaringan Komputer" that not yet taken.
    
 ## Participant 1
 ### Participant Description
-1. The parcipant is a female student of Informatics Department ITS 2016.
+1. The participant is a female student of Informatics Department ITS batch 2016.
 2. The participant is familiar with the monTA system.
 
 ### Transcript
@@ -69,6 +69,16 @@
 - **02:26** *Participant* berhasil menyelesaikan tugasnya
 8. Interviewer : Oke, yang terakhir coba cari tahu siapa dosen pada RMK AJK dengan status topik yang belum diambil?
 - **02:57** *Participant* berhasil menyelesaikan tugasnya
+
+## Participant 4
+### Participant Description
+1. The participant is a female student of Informatics Department ITS batch 2016.
+2. The participant is familiar with the monTA system.
+
+### Transcript
+1. Interviewer : Selamat sore, terima kasih atas waktunya bersedia untuk diwawancarai.
+2. Participant : Iya sama-sama. Sore ini kita ngapain?
+3. 
 
 
 ### Models and Annotations
