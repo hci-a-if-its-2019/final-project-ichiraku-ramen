@@ -47,7 +47,7 @@
 3. Find out how many Final Project having title contains substring "Algoritma" and belongs to 2014 batch.
 4. Find out how many Final Project with supervisor Rully Soelaiman and with specialization "Komputasi Cerdas dan Visi".
 5. Find out how many Final Project with supervisor Hadziq Fabroyir and with status "OK".
-6. Find out how which supervisors that offer Final Project's Topic with specialization "Arsitektur Jaringan Komputer" that not yet taken.
+6. Find out which supervisors that offer Final Project's Topic with specialization "Arsitektur Jaringan Komputer" that not yet taken.
    
 ## Participant 1
 ### Participant Description
@@ -69,17 +69,6 @@
 - **02:26** *Participant* berhasil menyelesaikan tugasnya
 8. Interviewer : Oke, yang terakhir coba cari tahu siapa dosen pada RMK AJK dengan status topik yang belum diambil?
 - **02:57** *Participant* berhasil menyelesaikan tugasnya
-
-## Participant 4
-### Participant Description
-1. The participant is a female student of Informatics Department ITS batch 2016.
-2. The participant is familiar with the monTA system.
-
-### Transcript
-1. Interviewer : Selamat sore, terima kasih atas waktunya bersedia untuk diwawancarai.
-2. Participant : Iya sama-sama. Sore ini kita ngapain?
-3. 
-
 
 ### Models and Annotations
 #### Artifact Model
@@ -128,6 +117,68 @@
 ![Flow-Model-P2]()
 #### Cultural Model
 ![Cultural-Model-P2]()
+
+## Participant 4
+### Participant Description
+1. The participant is a female student of Informatics Department ITS batch 2016.
+2. The participant is an interviewee from contextual inquiry
+
+### Transcript
+1. Interviewer : Selamat sore, terima kasih atas waktunya bersedia untuk diwawancarai.
+2. Participant : Iya sama-sama. Sore ini kita ngapain?
+3. Interviewer : Sore ini kita bakal masuk ke tahap berikutnya dari tugas yang kemarin kami mewawancarai
+4. Participant : Ooh. Yang monTA itu ya?
+5. Interviewer : Yup. Benar sekali. Jadi, peraturannya masih sama. Kami memberikan beberapa perintah, kamu coba jalanin perintah tersebut di webnya.
+6. Participant : Ok.
+7. Interviewer : Bisa kita mulai?
+8. Participant : Bisa.
+9. Interviewer : Pertama. Coba cari berapa banyak TA yang RMKnya *KCV*
+10. Participant : Ok. KCV ya.
+11. Participant : Hmm. Ini dihitung manual?.
+12. Participant : Ooh engga ternyata.
+- **00:15** *Participant* berhasil menyelesaikan tugasnya
+13. Participant : Ini kenapa ditarok dibawah?
+14. Interviewer : Iya, kami emang sengaja letakkan dibawah. Kamu baru sadar ya?
+15. Participant : Iya, soalnya ga begitu kelihatan. Mending diletakkan ke tempat yang gampang dilihat.
+16. Interviewer : Okok. Ada lagi?
+17. Participant : Udah engga kok
+18. Interviewer : Sudah ya? Kita lanjut lagi ya. Coba cari TA RMK *AP* yang judulnya mengandung kata *Algoritma*?
+19. Participant : Hmm. Langsung pake search aja kalo gitu
+- **01:02** *Participant* berhasil menyelesaikan tugasnya
+20. Participant : Ok, sudah. Baru sadar juga. Ini ID ya?
+21. Interviewer : Iyap
+22. Participant : Ooh, pantes. Lompat lompat. Mending pake nomer aja. Kalo pake ID takutnya malah berkesan ga rapi
+23. Interviewer : Okok. Adalagi?
+24. Participant : Belum. Nanti mungkin ada lagi
+25. Interviewer : Ok. Lanjut. Coba cari TA yang mengandung kata "algoritma" tahun 2014.
+26. Participant : Ok. Sebelumnya ini bikin pusing. Wkwkwk
+- **02:01** *Participant* berhasil menyelesaikan tugasnya
+27. Participant : Udah
+28. Interviewer : Gimana? Masih sama kayak yang sebelumnya?
+29. Participant : Udah gampang wkwkwk
+30. Interviewer : Sip sip. Lanjut ya.
+31. Participant : Ok.
+32. Interviewer : Cari TA yang pembimbingnya Pak Rully dengan RMK *KCV*.
+- **02:21** *Participant* berhasil menyelesaikan tugasnya
+33. Participant : Ok udah.
+34. Interviewer : Gimana? Bisa lanjut?
+35. Participant : Bisa.
+36. Interviewer : Sekarang, coba cari TA yang pembimbingnya Pak Hadziq dengan status *OK*.
+- **02:45** *Participant* berhasil menyelesaikan tugasnya
+37. Interviewer : Sudah ya? Terakhir. coba cari dosen pembimbing mana saja yang menawarkan topik *AJK* yang belum di ambil oleh mahasiswanya.
+38. Participant : Ooh udah terakhir.
+- **03:23** *Participant* berhasil menyelesaikan tugasnya
+39. Interviewer : Gimana? Apakah ada komentar sebelum kita selesaikan?
+40. Participant : Udah ga ada.
+41. Interviewer : Ok. Terima kasih ya atas waktu nya.
+
+### Models and Annotations
+#### Artifact Model
+![Artifact-Model-P4]()
+#### Flow Model
+![Flow-Model-P4]()
+#### Cultural Model
+![Cultural-Model-P4]()
 
 ## Do's and Don't
 
