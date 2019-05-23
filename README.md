@@ -39,7 +39,7 @@ In this final project, our teams will look out for the main problems that causes
 [Prototype - Iteration 1](./PROTOTYPE.md)
 
 # Usability Evaluation
-[Usability Evaluation](./USABILITY_EVALUATION.md)
+[Usability Evaluation](./USABILITY-EVALUATION.md)
 
 # Application Mockup
 [Application Mockup](./MOCKUP.md)
