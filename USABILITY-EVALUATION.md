@@ -1,47 +1,29 @@
 # Usability Evaluation
 
 ## Table of Content
-  - [Instruction Script](#instruction-script)
+- [Usability Evaluation](#usability-evaluation)
+  - [Table of Content](#table-of-content)
+  - [Evaluation Script](#evaluation-script)
   - [Participant 1](#participant-1)
     - [Participant Description](#participant-description)
     - [Transcript](#transcript)
-    - [Models and Annotations](#models-and-annotations)
-      - [Artifact Model](#artifact-model)
-      - [Flow Model](#flow-model)
-      - [Cultural Model](#cultural-model)
   - [Participant 2](#participant-2)
     - [Participant Description](#participant-description-1)
     - [Transcript](#transcript-1)
-    - [Models and Annotations](#models-and-annotations-1)
-      - [Artifact Model](#artifact-model-1)
-      - [Flow Model](#flow-model-1)
-      - [Cultural Model](#cultural-model-1)
   - [Participant 3](#participant-3)
     - [Participant Description](#participant-description-2)
     - [Transcript](#transcript-2)
-    - [Models and Annotations](#models-and-annotations-2)
-      - [Artifact Model](#artifact-model-2)
-      - [Flow Model](#flow-model-2)
-      - [Cultural Model](#cultural-model-2)
   - [Participant 4](#participant-4)
     - [Participant Description](#participant-description-3)
     - [Transcript](#transcript-3)
-    - [Models and Annotations](#models-and-annotations-3)
-      - [Artifact Model](#artifact-model-3)
-      - [Flow Model](#flow-model-3)
-      - [Cultural Model](#cultural-model-3)
   - [Participant 5](#participant-5)
     - [Participant Description](#participant-description-4)
     - [Transcript](#transcript-4)
-    - [Models and Annotations](#models-and-annotations-4)
-      - [Artifact Model](#artifact-model-4)
-      - [Flow Model](#flow-model-4)
-      - [Cultural Model](#cultural-model-4)
-  - [Do's and Don't](#dos-and-dont)
-    - [Do's](#dos)
-    - [Dont's](#donts)
+  - [Feedback and Incidence Analysis](#feedback-and-incidence-analysis)
+    - [Observation 1](#observation-1)
+    - [Observation 2](#observation-2)
 
-## Instruction Script
+## Evaluation Script
 1. Find out how many Final Project with specialization "Komputasi Cerdas dan Visi".
 2. Find out how many Final Project with specialization "Algoritma Pemograman" and having title contains substring "Algoritma".
 3. Find out how many Final Project having title contains substring "Algoritma" and belongs to 2014 batch.
@@ -268,15 +250,3 @@
 - Incidence : 
   - **2#10** Participant find it hard to perform searching with the current searching box position
   - **5#19** Participant find it hard to perform searching with the current searching box position
-
-## Do's and Don't
-
-### Do's
-- Give feedback on user action.
-- Use consistent UI placement.
-- Give user more flexibility on searching.
-- Use UI that users can intuitively use.
-
-### Dont's
-- Display sistem error or something similar
-- Use unstable/unconsistent UI
