@@ -218,7 +218,7 @@
 ## Feedback and Incidence Analysis
 
 ### Observation 1
-![Artifact-Model](/img/ue-artifact1.png)
+![Artifact-Model](/img/ue-artefact1.png)
 
 - Reference :  
   - **2#08** Participant : Hasil pencariannya tidak kelihatan, saran kalau bisa lebih diperjelas.
@@ -230,7 +230,7 @@
   - **5#10** Participant is confused about how to count the Final Projects
 
 ### Observation 2
-![Artifact-Model](/img/ue-artifact2.png)
+![Artifact-Model](/img/ue-artefact2.png)
 
 - Reference :
   - **2#10** Participant : participant agak kesulitan dengan hasil pencarian.
