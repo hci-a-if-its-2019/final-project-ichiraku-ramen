@@ -70,14 +70,6 @@
 8. Interviewer : Oke, yang terakhir coba cari tahu siapa dosen pada RMK AJK dengan status topik yang belum diambil?
 - **02:57** *Participant* berhasil menyelesaikan tugasnya
 
-### Models and Annotations
-#### Artifact Model
-![Artifact-Model-P1]()
-#### Flow Model
-![Flow-Model-P1]()
-#### Cultural Model
-![Cultural-Model-P1]()
-
 ## Participant 2
 ### Participant Description
 1. The parcipant is a male student of Informatics Department ITS 2016.
@@ -109,14 +101,6 @@
 17. Interviewer : Oke, terimakasih. Kira-kira ada masukan ngga untuk aplikasinya?
 18. Participant : Iya, untuk tampilan hasil pencarian kalau bisa diperjelas.
 19. Interviewer : Oke, terimakasih.
-
-### Models and Annotations
-#### Artifact Model
-![Artifact-Model-P2]()
-#### Flow Model
-![Flow-Model-P2]()
-#### Cultural Model
-![Cultural-Model-P2]()
 
 ## Participant 4
 ### Participant Description
@@ -172,14 +156,6 @@
 39. Interviewer : Gimana? Apakah ada komentar sebelum kita selesaikan?
 40. Participant : Udah ga ada.
 41. Interviewer : Ok. Terima kasih ya atas waktu nya.
-
-### Models and Annotations
-#### Artifact Model
-![Artifact-Model-P4]()
-#### Flow Model
-![Flow-Model-P4]()
-#### Cultural Model
-![Cultural-Model-P4]()
 
 ## Participant 5
 ### Participant Description
@@ -239,13 +215,30 @@
 42. Interviewer : Ok. Terima kasih ya atas waktu dan kesediaannya.
 43. Participant : Ya. Sama-sama
 
-### Models and Annotations
-#### Artifact Model
-![Artifact-Model-P5]()
-#### Flow Model
-![Flow-Model-P5]()
-#### Cultural Model
-![Cultural-Model-P5]()
+## Feedback and Incidence Analysis
+
+### Observation 1
+![Artifact-Model](/img/ue-artifact1.png)
+
+- Reference :  
+  - **2#08** Participant : Hasil pencariannya tidak kelihatan, saran kalau bisa lebih diperjelas.
+  - **4#15** Participant : Iya, soalnya ga begitu kelihatan. Mending diletakkan ke tempat yang gampang dilihat.
+  - **5#13** Participant : Ga begitu kelihatan soalnya. Mending ditarok diatas.
+- Feedback : Reposition the string "Hasil pencarian" to a better place
+- Incidence : 
+  - **4#11** Participant is confused about how to count the Final Projects
+  - **5#10** Participant is confused about how to count the Final Projects
+
+### Observation 2
+![Artifact-Model](/img/ue-artifact2.png)
+
+- Reference :
+  - **2#10** Participant : participant agak kesulitan dengan hasil pencarian.
+  - **5#19** Participant : Hmm. Agak susah buat searchingnya.
+- Feedback : Reposition the searching box near the filter area.
+- Incidence : 
+  - **2#10** Participant find it hard to perform searching with the current searching box position
+  - **5#19** Participant find it hard to perform searching with the current searching box position
 
 ## Do's and Don't
 
