@@ -244,6 +244,7 @@
 
 - Reference :  
   - **2#08** Participant : Hasil pencariannya tidak kelihatan, saran kalau bisa lebih diperjelas.
+  - **3#05** Participant : Sudah bisa sih, cuma kalau bisa hasil pencariannya mungkin bisa di-highlight supaya lebih kelihatan.
   - **4#15** Participant : Iya, soalnya ga begitu kelihatan. Mending diletakkan ke tempat yang gampang dilihat.
   - **5#13** Participant : Ga begitu kelihatan soalnya. Mending ditarok diatas.
 - Feedback : Reposition the string "Hasil pencarian" to a better place
@@ -256,6 +257,7 @@
 
 - Reference :
   - **2#10** Participant : participant agak kesulitan dengan hasil pencarian.
+  - **3#09** Participant : Search barnya kalau bisa dipindah, soalnya susah terlihat.
   - **5#19** Participant : Hmm. Agak susah buat searchingnya.
 - Feedback : Reposition the searching box near the filter area.
 - Incidence : 
