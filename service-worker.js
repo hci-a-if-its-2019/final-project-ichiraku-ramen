@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/final-project-ichiraku-ramen/precache-manifest.df93c123b582c410860b67737146e5a8.js"
+  "/final-project-ichiraku-ramen/precache-manifest.ef18bcd3babd02de4b577b60b2db4b11.js"
 );
 
 self.addEventListener('message', (event) => {

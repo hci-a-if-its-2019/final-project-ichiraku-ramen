@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/final-project-ichiraku-ramen/static/css/main.f647d762.chunk.css",
+    "main.css": "/final-project-ichiraku-ramen/static/css/main.287f50f1.chunk.css",
     "main.js": "/final-project-ichiraku-ramen/static/js/main.8d5ef0ea.chunk.js",
     "main.js.map": "/final-project-ichiraku-ramen/static/js/main.8d5ef0ea.chunk.js.map",
     "runtime~main.js": "/final-project-ichiraku-ramen/static/js/runtime~main.fb4d975f.js",
@@ -9,10 +9,10 @@
     "static/js/2.54392cbd.chunk.js": "/final-project-ichiraku-ramen/static/js/2.54392cbd.chunk.js",
     "static/js/2.54392cbd.chunk.js.map": "/final-project-ichiraku-ramen/static/js/2.54392cbd.chunk.js.map",
     "index.html": "/final-project-ichiraku-ramen/index.html",
-    "precache-manifest.df93c123b582c410860b67737146e5a8.js": "/final-project-ichiraku-ramen/precache-manifest.df93c123b582c410860b67737146e5a8.js",
+    "precache-manifest.ef18bcd3babd02de4b577b60b2db4b11.js": "/final-project-ichiraku-ramen/precache-manifest.ef18bcd3babd02de4b577b60b2db4b11.js",
     "service-worker.js": "/final-project-ichiraku-ramen/service-worker.js",
     "static/css/2.cafbc7ce.chunk.css.map": "/final-project-ichiraku-ramen/static/css/2.cafbc7ce.chunk.css.map",
-    "static/css/main.f647d762.chunk.css.map": "/final-project-ichiraku-ramen/static/css/main.f647d762.chunk.css.map",
+    "static/css/main.287f50f1.chunk.css.map": "/final-project-ichiraku-ramen/static/css/main.287f50f1.chunk.css.map",
     "static/media/logo.png": "/final-project-ichiraku-ramen/static/media/logo.68de1cc0.png",
     "static/media/logo2.gif": "/final-project-ichiraku-ramen/static/media/logo2.2a3bf301.gif"
   }
